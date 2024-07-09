@@ -1,0 +1,11 @@
+feedback
+feedback_generated
+autograded
+attic
+.ipynb_checkpoints
+*.pyc
+__pycache__
+*~
+core*
+*.avi
+*.mp4
